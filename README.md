@@ -4,9 +4,10 @@ Chronic Kidney Disease Classification Model in Python
 Dataset Name: Chronic Kidney Disease
 
 Abstract: This dataset can be used to predict chronic kidney disease and it has been collected at a hospital for a period of nearly 2 months.	
-Data Set Characteristics:  	Multivariate	Number of Instances:	400	Area:	N/A
-Attribute Characteristics:	Real	Number of Attributes:	25	Date Donated	2015-07-03
-Associated Tasks:	Classification	Missing Values?	Yes		
+
+![image](https://user-images.githubusercontent.com/35998066/190392346-11162a23-03f8-42d8-bb6e-1fe2777cb131.png)
+
+
 Source:
 Source: 
 Dr.P.Soundarapandian.M.D.,D.M 
