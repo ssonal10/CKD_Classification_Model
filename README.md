@@ -41,4 +41,4 @@ Apply the appropriate evaluation techniques in order to determine the accuracy o
 Try to obtain a model that can be easily understood and explained but it should not come at the cost of accuracy.
 
 You are supposed to make use of Python’s scikit-learn library for this step. You are free to write your custom algorithm as well provided it help in trying the objective of the use case. 
-![image](https://user-images.githubusercontent.com/35998066/190392186-11eddafe-b260-496a-8da3-c6ae713b90cd.png)
+
